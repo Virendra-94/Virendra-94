@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **Frontend Development and Android**
 
-- 📫 How to reach me **virendrakumarofficial94@gmail.com 🌐 Socials:**
+- 📫 How to reach me **virendrakumarofficial94@gmail.com** 
+🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
