@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/virendrak_94" target="blank"><img src="https://img.shields.io/twitter/follow/virendrak_94?logo=twitter&style=for-the-badge" alt="virendrak_94" /></a> </p>
 
-- 🔭 I’m currently working on [Learning Edge Android App](https://github.com/Virendra-94/Learning_Edge)
+- 🔭 Worked on [Learning Edge Android App](https://github.com/Virendra-94/Learning_Edge)
 
-- 🌱 I’m currently learning **Android & DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://virendra-portfolio.netlify.app/](https://virendra-portfolio.netlify.app/)
 
-- 💬 Ask me about **Frontend Development and Android**
+- 💬 Ask me about **Frontend Development and DSA**
 
 - 📫 How to reach me **virendrakumarofficial94@gmail.com** 
 🌐 Socials:
