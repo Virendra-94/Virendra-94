@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virendra-94" alt="virendra-94" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com//v4_virendra" target="blank"><img src="https://img.shields.io/twitter/follow/virendrak_94?logo=twitter&style=for-the-badge" alt="virendrak_94" /></a> </p>
+<p align="left"> <a href="https://twitter.com/v4_virendra" target="blank"><img src="https://img.shields.io/twitter/follow/v4_virendra?logo=twitter&style=for-the-badge" alt="v4_virendra" /></a> </p>
 
 - 🔭 Worked on [Learning Edge Android App](https://github.com/Virendra-94/Learning_Edge)
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com//v4_virendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/v4_virendra" height="30" width="40" /></a>
+<a href="https://twitter.com/v4_virendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v4_virendra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/virendra-kumar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virendra-kumar25" height="30" width="40" /></a>
 <a href="https://instagram.com/virendra_kr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virendra_kr9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/virendra_94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="virendra_94" height="30" width="40" /></a>
