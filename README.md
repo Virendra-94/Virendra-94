@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/v4_virendra" target="blank"><img src="https://img.shields.io/twitter/follow/v4_virendra?logo=twitter&style=for-the-badge" alt="v4_virendra" /></a> </p>
 
-- 🔭 Worked on [Learning Edge Android App](https://github.com/Virendra-94/Learning_Edge)
+- 🔭 Worked on [Learning Edge Android App](https://github.com/Virendra-94/Learning-edge)
 
 - 🌱 I’m currently learning **DSA**
 
