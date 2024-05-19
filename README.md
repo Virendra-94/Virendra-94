@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend Development and DSA**
 
-- 📫 How to reach me **virendrakumarofficial94@gmail.com** 
+- 📫 How to reach me **virendrakumar582002@gmail.com** 
 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
