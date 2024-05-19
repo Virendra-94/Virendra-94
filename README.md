@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virendra-94" alt="virendra-94" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/virendrak_94" target="blank"><img src="https://img.shields.io/twitter/follow/virendrak_94?logo=twitter&style=for-the-badge" alt="virendrak_94" /></a> </p>
+<p align="left"> <a href="https://twitter.com//v4_virendra" target="blank"><img src="https://img.shields.io/twitter/follow/virendrak_94?logo=twitter&style=for-the-badge" alt="virendrak_94" /></a> </p>
 
 - 🔭 Worked on [Learning Edge Android App](https://github.com/Virendra-94/Learning_Edge)
 
