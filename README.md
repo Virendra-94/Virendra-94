@@ -9,7 +9,7 @@ I am a pre-final year Computer Science undergraduate at Jaipur Engineering Colle
 * 🌍  I'm based in Jaipur, India
 * 🖥️  See my portfolio at [Portfolio](http://virendra-portfolio.netlify.app/)
 * ✉️  You can contact me at [virendrakumar582002@gmail.com](mailto:virendrakumar582002@gmail.com)
-* 🚀  I'm currently working on [Learning Edge](http://learning-edge.netlify.app/)
+<>* 🚀  I'm currently working on [Learning Edge](http://learning-edge.netlify.app/)
 * 🧠  I'm learning DSA and Full Stack Development
 * 🤝  I'm open to collaborating on Frontend Development projects
 
