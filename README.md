@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Undergraduate
 ------------------------------
 
-I am a pre-final year Computer Science undergraduate at Jaipur Engineering College and Research Centre, Jaipur, with a current CGPA of 8.8. I have completed two virtual internships as a Web Developer intern at Basket Hunt Pvt. Ltd. and Oasis Infobyte. My technical skills include a strong understanding of front-end technologies such as HTML, CSS, JavaScript, Bootstrap, and SQL. Additionally, I have experience in Android development and worked on a project named Learning Edge with a teammate. I also possess a solid foundation in computer fundamentals, including Database Management Systems, Data Structures and Algorithms, and Object-Oriented Programming.
+I am a final year Computer Science undergraduate at Jaipur Engineering College and Research Centre, Jaipur, with a current CGPA of 8.8. I have completed two virtual internships as a Web Developer intern at Basket Hunt Pvt. Ltd. and Oasis Infobyte. My technical skills include a strong understanding of front-end technologies such as HTML, CSS, JavaScript, Bootstrap, and SQL. Additionally, I have experience in Android development and worked on a project named Learning Edge with a teammate. I also possess a solid foundation in computer fundamentals, including Database Management Systems, Data Structures and Algorithms, and Object-Oriented Programming.
 
 * 🌍  I'm based in Jaipur, India
 * 🖥️  See my portfolio at [Portfolio](http://virendra-portfolio.netlify.app/)
